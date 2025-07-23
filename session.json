@@ -1,0 +1,152 @@
+{
+  "sessions": [
+    {
+      "id": "1121389763:1121389763",
+      "data": {
+        "paymentAmount": 100000,
+        "awaitingPhone": false,
+        "awaitingApartment": false,
+        "customPay": false,
+        "editingField": null,
+        "selectingApartments": false,
+        "apartments": []
+      }
+    },
+    {
+      "id": "435916750:435916750",
+      "data": {
+        "awaitingPhone": false,
+        "awaitingApartment": false,
+        "paymentAmount": 50000,
+        "customPay": false,
+        "selectingApartments": false,
+        "apartments": [],
+        "editingField": "phone"
+      }
+    },
+    {
+      "id": "457791983:457791983",
+      "data": {
+        "awaitingPhone": false,
+        "awaitingApartment": false,
+        "paymentAmount": 50000,
+        "customPay": true,
+        "editingField": null,
+        "selectingApartments": true,
+        "apartments": []
+      }
+    },
+    {
+      "id": "819438121:819438121",
+      "data": {
+        "awaitingPhone": false,
+        "awaitingApartment": false,
+        "paymentAmount": 500000,
+        "customPay": false
+      }
+    },
+    {
+      "id": "589365926:589365926",
+      "data": {
+        "awaitingPhone": true,
+        "editingField": null,
+        "paymentAmount": 100000,
+        "customPay": false
+      }
+    },
+    {
+      "id": "711214278:711214278",
+      "data": {
+        "awaitingPhone": true
+      }
+    },
+    {
+      "id": "837613891:837613891",
+      "data": {
+        "awaitingPhone": true,
+        "editingField": null,
+        "selectingApartments": false,
+        "apartments": [],
+        "paymentAmount": 100000,
+        "customPay": false
+      }
+    },
+    {
+      "id": "303170401:303170401",
+      "data": {
+        "awaitingPhone": false,
+        "selectingApartments": false,
+        "apartments": [],
+        "paymentAmount": 100000,
+        "customPay": false
+      }
+    },
+    {
+      "id": "7033483618:7033483618",
+      "data": {
+        "awaitingPhone": false,
+        "selectingApartments": false,
+        "apartments": [],
+        "paymentAmount": 100000,
+        "customPay": false
+      }
+    },
+    {
+      "id": "2455410:2455410",
+      "data": {
+        "awaitingPhone": false,
+        "selectingApartments": false,
+        "apartments": [],
+        "editingField": null,
+        "paymentAmount": 100000,
+        "customPay": false
+      }
+    },
+    {
+      "id": "714102664:714102664",
+      "data": {
+        "awaitingPhone": true
+      }
+    },
+    {
+      "id": "1082719826:1082719826",
+      "data": {
+        "awaitingPhone": true
+      }
+    },
+    {
+      "id": "6941448669:6941448669",
+      "data": {
+        "awaitingPhone": true
+      }
+    },
+    {
+      "id": "1557677440:1557677440",
+      "data": {
+        "awaitingPhone": false,
+        "selectingApartments": false,
+        "apartments": []
+      }
+    },
+    {
+      "id": "6088126056:6088126056",
+      "data": {
+        "awaitingPhone": false,
+        "selectingApartments": false,
+        "apartments": []
+      }
+    },
+    {
+      "id": "1415113930:1415113930",
+      "data": {
+        "awaitingPhone": true
+      }
+    },
+    {
+      "id": "1565435379:1565435379",
+      "data": {
+        "awaitingPhone": true
+      }
+    }
+  ]
+}

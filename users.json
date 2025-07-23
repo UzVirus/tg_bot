@@ -1,0 +1,118 @@
+[
+  {
+    "telegramId": 1121389763,
+    "firstName": "Диёрбек",
+    "lastName": "Гуломов",
+    "username": "uzvirus344",
+    "phone": "+998998830344",
+    "apartment": "29",
+    "balance": 150000,
+    "isPaid": true,
+    "payments": [
+      {
+        "month": "2025-07",
+        "amount": 100000,
+        "date": "2025-07-23T09:35:59.505Z"
+      }
+    ]
+  },
+  {
+    "telegramId": 837613891,
+    "firstName": "Dzhan",
+    "lastName": "Ibragimov",
+    "username": "",
+    "phone": "901791551",
+    "apartment": ", 43",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 303170401,
+    "firstName": "Salohiddin",
+    "lastName": "",
+    "username": "Salohiddin9922",
+    "phone": "998771213282",
+    "apartment": "26, 31, 36",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 7033483618,
+    "firstName": "Soyibjon",
+    "lastName": "Mansurovich",
+    "username": "",
+    "phone": "998505107090",
+    "apartment": "7",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 714102664,
+    "firstName": "Ne'matov",
+    "lastName": "Rahmatjon",
+    "username": "N0307O",
+    "phone": "",
+    "apartment": "",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 1082719826,
+    "firstName": "Tursunova Ziyoda (Holida)",
+    "lastName": "",
+    "username": "",
+    "phone": "",
+    "apartment": "",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 6941448669,
+    "firstName": "..",
+    "lastName": "",
+    "username": "",
+    "phone": "",
+    "apartment": "",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 1557677440,
+    "firstName": "Burkhan Dilshadovich",
+    "lastName": "",
+    "username": "burkhan_dilshodovich",
+    "phone": "998908510007",
+    "apartment": "34",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 1415113930,
+    "firstName": "Karayev",
+    "lastName": "Sarvarbek",
+    "username": "",
+    "phone": "",
+    "apartment": "",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 1565435379,
+    "firstName": "Муминова",
+    "lastName": "Дилобархон Рахмонжоновна",
+    "username": "Mominovadilobar",
+    "phone": "",
+    "apartment": "",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  }
+]
