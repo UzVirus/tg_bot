@@ -10,9 +10,19 @@
     "isPaid": true,
     "payments": [
       {
-        "month": "2025-07",
+        "month": "2025-04",
         "amount": 100000,
-        "date": "2025-07-23T09:35:59.505Z"
+        "date": "2025-04-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-05",
+        "amount": 100000,
+        "date": "2025-05-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-06",
+        "amount": 100000,
+        "date": "2025-06-23T09:35:59.505Z"
       }
     ]
   },
@@ -21,33 +31,76 @@
     "firstName": "Dzhan",
     "lastName": "Ibragimov",
     "username": "",
-    "phone": "901791551",
+    "phone": "+998901791551",
     "apartment": ", 43",
     "balance": 0,
     "isPaid": false,
-    "payments": []
+    "payments": [
+      {
+        "month": "2025-04",
+        "amount": 100000,
+        "date": "2025-04-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-05",
+        "amount": 100000,
+        "date": "2025-05-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-06",
+        "amount": 100000,
+        "date": "2025-06-23T09:35:59.505Z"
+      }
+    ]
   },
   {
     "telegramId": 303170401,
     "firstName": "Salohiddin",
     "lastName": "",
     "username": "Salohiddin9922",
-    "phone": "998771213282",
+    "phone": "+998771213282",
     "apartment": "26, 31, 36",
     "balance": 0,
     "isPaid": false,
-    "payments": []
+    "payments": [
+      {
+        "month": "2025-04",
+        "amount": 300000,
+        "date": "2025-04-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-05",
+        "amount": 300000,
+        "date": "2025-05-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-06",
+        "amount": 300000,
+        "date": "2025-06-23T09:35:59.505Z"
+      }
+    ]
   },
   {
     "telegramId": 7033483618,
     "firstName": "Soyibjon",
     "lastName": "Mansurovich",
     "username": "",
-    "phone": "998505107090",
+    "phone": "+998505107090",
     "apartment": "7",
     "balance": 0,
     "isPaid": false,
-    "payments": []
+    "payments": [
+      {
+        "month": "2025-04",
+        "amount": 100000,
+        "date": "2025-04-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-05",
+        "amount": 100000,
+        "date": "2025-05-23T09:35:59.505Z"
+      }
+    ]
   },
   {
     "telegramId": 714102664,
@@ -87,11 +140,17 @@
     "firstName": "Burkhan Dilshadovich",
     "lastName": "",
     "username": "burkhan_dilshodovich",
-    "phone": "998908510007",
+    "phone": "+998908510007",
     "apartment": "34",
     "balance": 0,
     "isPaid": false,
-    "payments": []
+    "payments": [
+      {
+        "month": "2025-04",
+        "amount": 100000,
+        "date": "2025-04-23T09:35:59.505Z"
+      }
+    ]
   },
   {
     "telegramId": 1415113930,
@@ -114,5 +173,131 @@
     "balance": 0,
     "isPaid": false,
     "payments": []
+  },
+  {
+    "telegramId": 457791983,
+    "firstName": "Акмаль",
+    "lastName": "",
+    "username": "A_Aki97",
+    "phone": "+998937371079",
+    "apartment": "",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 913081517,
+    "firstName": "Jahongir Abduganiyev",
+    "lastName": "",
+    "username": "Jahongir_Abduganiyev",
+    "phone": "+998993153755",
+    "apartment": "25",
+    "balance": 0,
+    "isPaid": false,
+    "payments": [
+      {
+        "month": "2025-04",
+        "amount": 100000,
+        "date": "2025-04-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-05",
+        "amount": 100000,
+        "date": "2025-05-23T09:35:59.505Z"
+      }
+    ]
+  },
+  {
+    "telegramId": 7792113090,
+    "firstName": "YoSiNa",
+    "lastName": "",
+    "username": "",
+    "phone": "+998911231111",
+    "apartment": "",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 88501772,
+    "firstName": "Davronov",
+    "lastName": "",
+    "username": "",
+    "phone": "+998906323377",
+    "apartment": "54, 55",
+    "balance": 0,
+    "isPaid": false,
+    "payments": [
+      {
+        "month": "2025-04",
+        "amount": 200000,
+        "date": "2025-04-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-05",
+        "amount": 200000,
+        "date": "2025-05-23T09:35:59.505Z"
+      }
+    ]
+  },
+  {
+    "telegramId": 723410312,
+    "firstName": "Mr.",
+    "lastName": "",
+    "username": "",
+    "phone": "",
+    "apartment": "",
+    "balance": 0,
+    "isPaid": false,
+    "payments": []
+  },
+  {
+    "telegramId": 8001041156,
+    "firstName": "Oʻrinboyev Shohruhbek",
+    "lastName": "",
+    "username": "Glav_bux_one",
+    "phone": "+998997274020",
+    "apartment": "71",
+    "balance": 0,
+    "isPaid": false,
+    "payments": [
+      {
+        "month": "2025-04",
+        "amount": 100000,
+        "date": "2025-04-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-05",
+        "amount": 100000,
+        "date": "2025-05-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-06",
+        "amount": 100000,
+        "date": "2025-05-23T09:35:59.505Z"
+      }
+    ]
+  },
+  {
+    "telegramId": 998806407,
+    "firstName": "Tohirbek.077",
+    "lastName": "",
+    "username": "AlijanovT",
+    "phone": "+998908353635",
+    "apartment": "84",
+    "balance": 0,
+    "isPaid": false,
+    "payments": [
+      {
+        "month": "2025-04",
+        "amount": 100000,
+        "date": "2025-04-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-05",
+        "amount": 100000,
+        "date": "2025-05-23T09:35:59.505Z"
+      }
+    ]
   }
 ]

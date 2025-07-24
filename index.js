@@ -55,7 +55,7 @@ function mainMenu() {
   return Markup.keyboard([
     ['👤 Мой профиль', '💸 Оплата'],
     ['🧾 История оплат', '📞 Связаться с админом'],
-    ['📊 Посмотреть оплаты'] // новая кнопка
+    ['📊 Посмотреть оплаты', '👥 Пользователи']
   ]).resize();
 }
 
@@ -96,8 +96,8 @@ bot.hears('👤 Мой профиль', ctx => {
   ctx.reply(profile, Markup.inlineKeyboard([
     [Markup.button.callback('✏️ Изменить имя', 'edit_firstName')],
     [Markup.button.callback('✏️ Изменить фамилию', 'edit_lastName')],
-    [Markup.button.callback('🏢 Изменить квартиру', 'edit_apartment')],
-    [Markup.button.callback('📞 Изменить телефон', 'edit_phone')]
+    [Markup.button.callback('🏢 Изменить квартиру', 'edit_apartment')]
+    //[Markup.button.callback('📞 Изменить телефон', 'edit_phone')]
   ]));
 });
 
@@ -300,6 +300,27 @@ bot.hears('📊 Посмотреть оплаты', ctx => {
   });
 
   ctx.reply(response);
+});
+
+bot.hears('👥 Пользователи', ctx => {
+  if (!admins.includes(ctx.from.id)) {
+    return ctx.reply('⛔ Эта команда доступна только администраторам.');
+  }
+
+  const users = loadUsers();
+
+  if (users.length === 0) {
+    return ctx.reply('❗ Зарегистрированных пользователей нет.');
+  }
+
+  let message = '👥 Зарегистрированные пользователи:\n\n';
+
+  users.forEach((u, i) => {
+    message += `${i + 1}. ${u.firstName} ${u.lastName} — кв. ${u.apartment || '—'}\n` +
+               `📞 ${u.phone || '—'} | 💰 ${u.balance} сум\n\n`;
+  });
+
+  ctx.reply(message);
 });
 
 
