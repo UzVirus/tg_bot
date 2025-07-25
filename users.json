@@ -6,7 +6,7 @@
     "username": "uzvirus344",
     "phone": "+998998830344",
     "apartment": "29",
-    "balance": 150000,
+    "balance": 100000,
     "isPaid": true,
     "payments": [
       {
@@ -23,8 +23,14 @@
         "month": "2025-06",
         "amount": 100000,
         "date": "2025-06-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-07",
+        "amount": 100000,
+        "date": "2025-06-25T09:35:59.505Z"
       }
-    ]
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 837613891,
@@ -51,17 +57,18 @@
         "amount": 100000,
         "date": "2025-06-23T09:35:59.505Z"
       }
-    ]
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 303170401,
     "firstName": "Salohiddin",
-    "lastName": "",
+    "lastName": "Habijonov",
     "username": "Salohiddin9922",
     "phone": "+998771213282",
     "apartment": "26, 31, 36",
-    "balance": 0,
-    "isPaid": false,
+    "balance": 300000,
+    "isPaid": true,
     "payments": [
       {
         "month": "2025-04",
@@ -77,8 +84,14 @@
         "month": "2025-06",
         "amount": 300000,
         "date": "2025-06-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-07",
+        "amount": 300000,
+        "date": "2025-07-24T16:58:19.514Z"
       }
-    ]
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 7033483618,
@@ -100,18 +113,36 @@
         "amount": 100000,
         "date": "2025-05-23T09:35:59.505Z"
       }
-    ]
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 714102664,
     "firstName": "Ne'matov",
     "lastName": "Rahmatjon",
     "username": "N0307O",
-    "phone": "",
-    "apartment": "",
+    "phone": "+998903490494",
+    "apartment": "30",
     "balance": 0,
     "isPaid": false,
-    "payments": []
+    "payments": [
+      {
+        "month": "2025-04",
+        "amount": 100000,
+        "date": "2025-04-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-05",
+        "amount": 100000,
+        "date": "2025-05-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-06",
+        "amount": 100000,
+        "date": "2025-06-23T09:35:59.505Z"
+      }
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 1082719826,
@@ -119,21 +150,34 @@
     "lastName": "",
     "username": "",
     "phone": "",
-    "apartment": "",
+    "apartment": "39",
     "balance": 0,
     "isPaid": false,
-    "payments": []
+    "payments": [],
+    "lang": "ru"
   },
   {
     "telegramId": 6941448669,
-    "firstName": "..",
+    "firstName": "Tursunova Ziyoda (Holida)",
     "lastName": "",
     "username": "",
     "phone": "",
-    "apartment": "",
-    "balance": 0,
-    "isPaid": false,
-    "payments": []
+    "apartment": "39",
+    "balance": 100000,
+    "isPaid": true,
+    "payments": [
+      {
+        "month": "2025-06",
+        "amount": 100000,
+        "date": "2025-07-24T17:14:21.484Z"
+      },
+      {
+        "month": "2025-07",
+        "amount": 100000,
+        "date": "2025-07-24T17:14:40.607Z"
+      }
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 1557677440,
@@ -150,7 +194,8 @@
         "amount": 100000,
         "date": "2025-04-23T09:35:59.505Z"
       }
-    ]
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 1415113930,
@@ -161,7 +206,8 @@
     "apartment": "",
     "balance": 0,
     "isPaid": false,
-    "payments": []
+    "payments": [],
+    "lang": "ru"
   },
   {
     "telegramId": 1565435379,
@@ -172,18 +218,8 @@
     "apartment": "",
     "balance": 0,
     "isPaid": false,
-    "payments": []
-  },
-  {
-    "telegramId": 457791983,
-    "firstName": "Акмаль",
-    "lastName": "",
-    "username": "A_Aki97",
-    "phone": "+998937371079",
-    "apartment": "",
-    "balance": 0,
-    "isPaid": false,
-    "payments": []
+    "payments": [],
+    "lang": "ru"
   },
   {
     "telegramId": 913081517,
@@ -205,7 +241,8 @@
         "amount": 100000,
         "date": "2025-05-23T09:35:59.505Z"
       }
-    ]
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 7792113090,
@@ -216,7 +253,8 @@
     "apartment": "",
     "balance": 0,
     "isPaid": false,
-    "payments": []
+    "payments": [],
+    "lang": "ru"
   },
   {
     "telegramId": 88501772,
@@ -238,7 +276,8 @@
         "amount": 200000,
         "date": "2025-05-23T09:35:59.505Z"
       }
-    ]
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 723410312,
@@ -246,10 +285,11 @@
     "lastName": "",
     "username": "",
     "phone": "",
-    "apartment": "",
+    "apartment": "71",
     "balance": 0,
     "isPaid": false,
-    "payments": []
+    "payments": [],
+    "lang": "ru"
   },
   {
     "telegramId": 8001041156,
@@ -258,8 +298,8 @@
     "username": "Glav_bux_one",
     "phone": "+998997274020",
     "apartment": "71",
-    "balance": 0,
-    "isPaid": false,
+    "balance": 100000,
+    "isPaid": true,
     "payments": [
       {
         "month": "2025-04",
@@ -275,8 +315,14 @@
         "month": "2025-06",
         "amount": 100000,
         "date": "2025-05-23T09:35:59.505Z"
+      },
+      {
+        "month": "2025-07",
+        "amount": 100000,
+        "date": "2025-07-24T17:14:43.400Z"
       }
-    ]
+    ],
+    "lang": "ru"
   },
   {
     "telegramId": 998806407,
@@ -298,6 +344,67 @@
         "amount": 100000,
         "date": "2025-05-23T09:35:59.505Z"
       }
-    ]
+    ],
+    "lang": "ru"
+  },
+  {
+    "telegramId": 7998243110,
+    "firstName": "дилрабо☘️",
+    "lastName": "",
+    "username": "",
+    "phone": "",
+    "apartment": "",
+    "balance": 0,
+    "isPaid": false,
+    "payments": [],
+    "lang": "ru"
+  },
+  {
+    "telegramId": 701473358,
+    "firstName": "Life is short",
+    "lastName": "",
+    "username": "Phenominallll",
+    "phone": "",
+    "apartment": "81",
+    "balance": 0,
+    "isPaid": false,
+    "payments": [],
+    "lang": "ru"
+  },
+  {
+    "telegramId": 535442750,
+    "firstName": "FARRUX",
+    "lastName": "",
+    "username": "",
+    "phone": "+998973473367",
+    "apartment": "16",
+    "balance": 0,
+    "isPaid": false,
+    "payments": [],
+    "lang": "ru"
+  },
+  {
+    "telegramId": 1719562631,
+    "firstName": "Salohiddin",
+    "lastName": "Habijonov",
+    "username": "",
+    "phone": "+998906339922",
+    "apartment": "26, 31, 36",
+    "balance": 0,
+    "isPaid": false,
+    "payments": [],
+    "lang": "ru"
+  },
+  {
+    "telegramId": 94624568,
+    "firstName": "R.R",
+    "lastName": "Xasanboyev",
+    "username": "Khasanbayev_R",
+    "phone": "+998916626639",
+    "apartment": "53",
+    "balance": 0,
+    "isPaid": false,
+    "payments": [],
+    "lang": "ru"
   }
 ]
